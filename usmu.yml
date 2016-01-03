@@ -1,0 +1,9 @@
+---
+
+title: Usmu.io
+
+exclude:
+- '**/_*.s[ca]ss'
+
+serve:
+  port: 3000
