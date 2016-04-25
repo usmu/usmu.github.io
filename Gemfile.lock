@@ -1,10 +1,3 @@
-PATH
-  remote: ../usmu-github-pages
-  specs:
-    usmu-github-pages (1.0.0.dev)
-      logging (~> 2.0)
-      usmu (~> 1.4, >= 1.4.3)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -36,6 +29,9 @@ GEM
       redcarpet (~> 3.3)
       slim (~> 3.0)
       tilt (~> 2.0)
+    usmu-github-pages (1.0.0)
+      logging (~> 2.0)
+      usmu (~> 1.4, >= 1.4.3)
     usmu-sitemap (1.0.0)
       logging (~> 2.0)
       ox (~> 2.2)
@@ -48,7 +44,7 @@ PLATFORMS
 DEPENDENCIES
   sass (~> 3.4)
   usmu (~> 1.4, >= 1.4.4)
-  usmu-github-pages!
+  usmu-github-pages
   usmu-sitemap
 
 BUNDLED WITH
