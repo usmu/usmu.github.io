@@ -8,3 +8,8 @@ gem 'usmu-sitemap'
 
 ## Extra template engines.
 gem 'sass', '~> 3.4'
+
+## Extra extras.
+### Bourbon and friends use exact versions so we can control when/if we update.
+gem 'bourbon', '4.2.7'
+gem 'neat', '1.7.4'
