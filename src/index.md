@@ -8,6 +8,15 @@ $ gem install usmu
 $ usmu init my-awesome-site
 $ cd my-awesome-site
 $ usmu serve
+# => View at http://localhost:8080/
+```
+
+## Plugins
+
+You can add plugins just by installing the gem:
+
+```
+$ gem install usmu-github-pages
 ```
 
 ## This site is an usmu site
