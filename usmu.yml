@@ -5,5 +5,15 @@ title: Usmu.io
 exclude:
 - '**/_*.s[ca]ss'
 
+redcarpet2:
+  :footnotes: true
+  :fenced_code_blocks: true
+  :underline: true
+  :smart: true
+  :space_after_headers: true
+  :strikethrough: true
+  :smartypants: true
+  :pygments: true
+
 serve:
   port: 3000
