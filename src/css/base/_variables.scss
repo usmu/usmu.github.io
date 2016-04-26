@@ -1,9 +1,15 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+13px);
+
+// Custom font stacks
+$slabo13: 'Slabo 13px', serif;
+
 // Typography
-$base-font-family: $helvetica;
+$base-font-family: $slabo13;
 $heading-font-family: $base-font-family;
 
 // Font Sizes
-$base-font-size: 1em;
+$base-font-size: 13px;
+$heading-font-size: $base-font-size * 1.5;
 
 // Line height
 $base-line-height: 1.5;

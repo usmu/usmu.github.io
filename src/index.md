@@ -1,4 +1,7 @@
-# It works!
+# Usmu
+
+Usmu is a next-generation static site generator built in Ruby and designed from the ground up
+to be flexible and extensible but still easy to use.
 
 Welcome to your new Usmu website! Feel free to look around and find out what's in store for you.
 
