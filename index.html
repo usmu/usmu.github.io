@@ -1,10 +1,23 @@
-<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><title>Usmu.io</title></head><body><h1>It works!</h1>
+<!DOCTYPE html><html><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type" /><title>Usmu.io</title><link href="/css/style.css" rel="stylesheet" /><script data-main="js/app" language="javascript" src="/assets/requirejs/require.js" type="text/javascript"></script></head><body><h1>Usmu</h1>
 
-<p>Welcome to your new Usmu website! Feel free to look around and find out what&#39;s in store for you.</p>
+<p>Usmu is a next-generation static site generator built in Ruby and designed from
+the ground up to be flexible and extensible but still easy to use.</p>
 
-<p>This is currently the test-bed for the usmu-github plugin. See
-<a href="https://github.com/usmu/usmu.github.io/">usmu/usmu.github.io</a> and
-<a href="https://github.com/usmu/usmu-github-pages/">usmu/usmu-github-pages</a> for more information.</p>
+<pre><code>$ gem install usmu
+$ usmu init my-awesome-site
+$ cd my-awesome-site
+$ usmu serve
+# =&gt; View at http://localhost:8080/
+</code></pre>
 
-<h2>Real site coming soon!</h2>
+<h2>Plugins</h2>
+
+<p>You can add plugins just by installing the gem:</p>
+
+<pre><code>$ gem install usmu-github-pages
+</code></pre>
+
+<h2>This site is an usmu site</h2>
+
+<p><a href="https://github.com/usmu/usmu.github.io">You can see the source code for this website.</a></p>
 </body></html>

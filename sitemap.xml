@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>/assets/requirejs/README.html</loc>
+    <lastmod>2016-04-26T10:09:21Z</lastmod>
+  </url>
+  <url>
+    <loc>/css/style.css</loc>
+    <lastmod>2016-04-26T11:10:36Z</lastmod>
+  </url>
+  <url>
     <loc>/index.html</loc>
-    <lastmod>2016-04-24T10:45:19Z</lastmod>
+    <lastmod>2016-04-26T11:39:27Z</lastmod>
+  </url>
+  <url>
+    <loc>/js/app.js</loc>
+    <lastmod>2016-04-26T11:13:18Z</lastmod>
   </url>
   <url>
     <loc>/sitemap.xml</loc>
-    <lastmod>2016-04-25T11:24:43Z</lastmod>
+    <lastmod>2016-04-26T11:41:58Z</lastmod>
   </url>
 </urlset>
