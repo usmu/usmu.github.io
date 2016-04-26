@@ -14,3 +14,4 @@ gem 'coffee-script', '~> 2.4'
 ### Bourbon and friends use exact versions so we can control when/if we update.
 gem 'bourbon', '4.2.7'
 gem 'neat', '1.7.4'
+gem 'bitters', '1.2.0'
