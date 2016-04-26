@@ -8,6 +8,7 @@ gem 'usmu-sitemap'
 
 ## Extra template engines.
 gem 'sass', '~> 3.4'
+gem 'coffee-script', '~> 2.4'
 
 ## Extra extras.
 ### Bourbon and friends use exact versions so we can control when/if we update.

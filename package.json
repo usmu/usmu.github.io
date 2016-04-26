@@ -1,0 +1,24 @@
+{
+  "name": "usmu.github.io",
+  "version": "1.0.0",
+  "description": "Usmu homepage",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/usmu/usmu.github.io.git"
+  },
+  "keywords": [
+    "usmu"
+  ],
+  "author": "Matthew Scharley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/usmu/usmu.github.io/issues"
+  },
+  "homepage": "https://github.com/usmu/usmu.github.io#readme",
+  "devDependencies": {
+    "bower": "^1.7.9"
+  }
+}
